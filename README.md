@@ -17,7 +17,8 @@ The first step to start this project was to develop a schema for the 6 csvfiles 
 
  ran query.
 
- results, the data provided seem incorrect, the same first name was displayed 20 times within the data, repeating itself.
+ results, I was able the to answer the questions using the query tool,but 
+ the data provided seemed to be incorrect, the same first name was displayed 20 times within the data, repeating itself.
 
  
 
